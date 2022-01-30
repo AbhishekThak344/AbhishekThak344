@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbhishekThak344
-- 👀 I’m interested in Blockchain development, Building new Dapp, creating smartcontracts and contribute as much as possible in Web 3.0
-- 🌱 I’m currently working part time as a freelancer on fiverr.
+- 👋 Hi, I’m Abhishek Thakur
+- 👀 I’m passionate about Blockchain development, Building new Dapp, creating smartcontracts and contribute as much as possible in Web 3.0
+- 🌱 I’m currently working as freelancer.
 - 💞️ I’m looking to collaborate with people who loves to create an impact on brand new web 3.0 era.
-- 📫 How to reach me .. drop an email on abhishekthakur344@web3dev.in
+- 📫 Reach me out at abhishekthakur344@web3dev.in
 
 <!---
 AbhishekThak344/AbhishekThak344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
