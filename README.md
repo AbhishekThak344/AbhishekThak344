@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src= "https://i.gifer.com/7SvE.gif">
+<img align="right" alt="Coding" width="400" src= "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 - 🔭 I’m currently working on [Fiverr as a freelancer.](https://www.fiverr.com/share/qe54qZ)
 
