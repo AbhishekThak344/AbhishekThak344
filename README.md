@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on [Fiverr as a freelancer.](https://www.fiverr.com/share/qe54qZ)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://testdapp.online)
 
 - 💬 Ask me about **solidity, reactjs, typescript**
 
