@@ -1,4 +1,4 @@
-[![MasterHead]([https://inteng-storage.s3.amazonaws.com/images/sizes/blockchain11_md.jpg](https://miro.medium.com/max/1400/0*gVQXZtBZGvmBHvgQ.png))]()
+[![Header](https://m.economictimes.com/thumb/msid-92454051,width-1200,height-900,resizemode-4,imgsize-485080/web-3.jpg)]()
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">A passionate blockchain developer </h3>
 
