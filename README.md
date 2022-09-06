@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src= "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🔭 I’m currently working on [Fiverr as a freelancer.](https://www.fiverr.com/share/qe54qZ)
+- 🔭 I’m currently working as freelancer.
 
 
 - 💬 Ask me about **solidity, reactjs, typescript**
