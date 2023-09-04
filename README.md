@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src= "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🔭 I’m currently working as freelancer, wardon at code4rena.
+- 🔭 I’m currently working as freelancer, wardon at code4rena, hawks at codehawks.
 
 
 - 💬 Ask me about **solidity, reactjs, typescript**
