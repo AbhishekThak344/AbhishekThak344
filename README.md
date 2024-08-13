@@ -1,10 +1,10 @@
 [![Header](https://miro.medium.com/max/1400/0*gVQXZtBZGvmBHvgQ.png)]()
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
-<h3 align="center">A passionate smart contract developer </h3>
+<h3 align="center">A passionate smart contract developer and Security Researcher </h3>
 
 <img align="right" alt="Coding" width="400" src= "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🔭 I’m currently working as freelancer, wardon at code4rena, hawks at codehawks.
+- 🔭 I’m currently working as freelancer, warden at code4rena, hawks at codehawks.
 
 
 - 💬 Ask me about **solidity, reactjs, typescript**
